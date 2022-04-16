@@ -21,7 +21,7 @@ const records = {
     },
     {
       id: 1,
-      color: "hsl(195, 74%, 62%",
+      color: "hsl(195, 74%, 62%)",
       icon: play,
       header: "Play",
       hours: "10hrs",
@@ -71,7 +71,7 @@ const records = {
     },
     {
       id: 1,
-      color: "hsl(195, 74%, 62%",
+      color: "hsl(195, 74%, 62%)",
       icon: play,
       header: "Play",
       hours: "10hrs",
@@ -103,7 +103,7 @@ const records = {
     },
     {
       id: 5,
-      color: "hsl(43, 84%, 65%)e",
+      color: "hsl(43, 84%, 65%)",
       icon: selfCare,
       header: "Self Care",
       hours: "2hrs",
@@ -121,7 +121,7 @@ const records = {
     },
     {
       id: 1,
-      color: "hsl(195, 74%, 62%",
+      color: "hsl(195, 74%, 62%)",
       icon: play,
       header: "Play",
       hours: "10hrs",
