@@ -1,0 +1,20 @@
+main {
+  background-color: var(--very-dark-blue);
+  display: flex;
+  width: 100%;
+}
+
+.user {
+  display: flex;
+  flex-basis: 25%;
+}
+
+.status {
+  flex-basis: 75%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 100%;
+  gap: 16px;
+  margin-left: 16px;
+}
