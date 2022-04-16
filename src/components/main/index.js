@@ -53,7 +53,7 @@ const records = {
     },
     {
       id: 5,
-      color: "--soft-orange-self-care",
+      color: "hsl(43, 84%, 65%)",
       icon: selfCare,
       header: "Self Care",
       hours: "2hrs",
@@ -103,7 +103,7 @@ const records = {
     },
     {
       id: 5,
-      color: "--soft-orange-self-care",
+      color: "hsl(43, 84%, 65%)e",
       icon: selfCare,
       header: "Self Care",
       hours: "2hrs",
@@ -153,7 +153,7 @@ const records = {
     },
     {
       id: 5,
-      color: "--soft-orange-self-care",
+      color: "hsl(43, 84%, 65%)",
       icon: selfCare,
       header: "Self Care",
       hours: "12hrs",
