@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/time-tracking-dashborad/static/css/main.c2af8bc7.css",
-    "main.js": "/time-tracking-dashborad/static/js/main.9aa1ca9e.js",
+    "main.css": "/time-tracking-dashborad/static/css/main.d60c786c.css",
+    "main.js": "/time-tracking-dashborad/static/js/main.f12e05f4.js",
     "static/media/image-jeremy.png": "/time-tracking-dashborad/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
     "static/media/icon-exercise.svg": "/time-tracking-dashborad/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
     "static/media/icon-social.svg": "/time-tracking-dashborad/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
@@ -11,11 +11,11 @@
     "static/media/icon-work.svg": "/time-tracking-dashborad/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
     "static/media/icon-self-care.svg": "/time-tracking-dashborad/static/media/icon-self-care.a161aff589038fc7ce09296497d4cd62.svg",
     "static/media/icon-ellipsis.svg": "/time-tracking-dashborad/static/media/icon-ellipsis.a57a4ac863593bb69d31b4399823f745.svg",
-    "main.c2af8bc7.css.map": "/time-tracking-dashborad/static/css/main.c2af8bc7.css.map",
-    "main.9aa1ca9e.js.map": "/time-tracking-dashborad/static/js/main.9aa1ca9e.js.map"
+    "main.d60c786c.css.map": "/time-tracking-dashborad/static/css/main.d60c786c.css.map",
+    "main.f12e05f4.js.map": "/time-tracking-dashborad/static/js/main.f12e05f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2af8bc7.css",
-    "static/js/main.9aa1ca9e.js"
+    "static/css/main.d60c786c.css",
+    "static/js/main.f12e05f4.js"
   ]
 }
